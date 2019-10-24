@@ -460,9 +460,7 @@
                                                     staticClass: "wow fadeIn"
                                                 }, [a("span", [a("i", {
                                                                     staticClass: "iconfont ic-bisai pull-left"
-                                                                })]), a("h3", [t._v("赛事")]), a("h4", [t._v("英雄联盟")]), a("h4", [t._v("魔兽增霸")])]), a("li", {
-                                                    staticClass: "wow fadeIn"
-                                                })])])])])
+                                                                })]), a("h3", [t._v("赛事")]), a("h4", [t._v("英雄联盟")]), a("h4", [t._v("魔兽增霸")])])])])])])
             }
         ],
         E = {
